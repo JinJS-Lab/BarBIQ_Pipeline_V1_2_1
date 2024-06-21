@@ -15,7 +15,7 @@ SpikeIn_fix_base3:	..................C....T....AC
 SpikeIn_fix_base4:	..................G....C....GA
 #
 # The directory where all the codes are saved
-Perl_code_path:	/data/BarBIQ_code/
+Perl_code_path:	/root/BarBIQ_code/
 #
 # The number of bases of the primer Biotin-Link-805R after "GCTCCTGCGTTCGGATCGTAGTCG"; when design new primers for, e.g., other regions of the 16S rRNA genes, please set the number based on your new primer 
 I1_length:	21
