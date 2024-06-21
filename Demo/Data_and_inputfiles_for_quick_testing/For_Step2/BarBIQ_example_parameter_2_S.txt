@@ -1,9 +1,9 @@
-# You need to modify two "path-to"
+# You need to modify one "path-to"
 # The directory for output the processing data, don't forget the last "/"
-Output_path:	path-to/BarBIQ_Pipeline_V1_2_0/Demo/Data_and_inputfiles_for_quick_testing/For_Step2/Output_Step2/
+Output_path:	path-to/BarBIQ_Pipeline_V1_2_1/Demo/Data_and_inputfiles_for_quick_testing/For_Step2/Output_Step2/
 #
 # The directory where all the BarBIQ pipiline codes are saved, don't forget the last "/"
-Perl_code_path:	/data/BarBIQ_Pipeline_V1_2_1/BarBIQ_code/
+Perl_code_path:	/root/BarBIQ_code/
 #
 # The directory where the RDPTools are installed, don't forget the last "/"
 RDPTools:	 /root/anaconda3/pkgs/rdptools-2.0.3-hdfd78af_1/share/rdptools-2.0.3-1/
