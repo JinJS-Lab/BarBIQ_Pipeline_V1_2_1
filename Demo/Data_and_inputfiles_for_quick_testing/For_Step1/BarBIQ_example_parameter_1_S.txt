@@ -1,4 +1,4 @@
-# You need to modify two "path-to"
+# You need to modify one "path-to"
 # The directory where all the fastq files from a MiSeq run are saved, don't forget the last "/"
 Data_path:	path-to/BarBIQ_Pipeline_V1_2_0/Demo/Data_and_inputfiles_for_quick_testing/For_Step1/Miseq_Run_1_Small/
 #
@@ -14,8 +14,8 @@ SpikeIn_fix_base2:	..................A....G....CT
 SpikeIn_fix_base3:	..................C....T....AC
 SpikeIn_fix_base4:	..................G....C....GA
 #
-# The directory where all the codes are saved, don't forget the last "/"
-Perl_code_path:	path-to/BarBIQ_Pipeline_V1_2_0/BarBIQ_code/
+# The directory where all the codes are saved
+Perl_code_path:	/data/BarBIQ_code/
 #
 # The number of bases of the primer Biotin-Link-805R after "GCTCCTGCGTTCGGATCGTAGTCG"; when design new primers for, e.g., other regions of the 16S rRNA genes, please set the number based on your new primer 
 I1_length:	21
