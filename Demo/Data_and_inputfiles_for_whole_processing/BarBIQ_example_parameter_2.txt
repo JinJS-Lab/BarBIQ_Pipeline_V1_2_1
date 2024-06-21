@@ -1,6 +1,6 @@
-# You need to modify one "path-to"
+# You need to modify "Output_path"
 # The directory for output the processing data, don't forget the last "/"
-Output_path:	path-to/BarBIQ_Pipeline_V1_2_1/Demo/Data_and_inputfiles_for_whole_processing/Output_Step2/
+Output_path:	/data/BarBIQ_Pipeline_V1_2_1/Demo/Data_and_inputfiles_for_whole_processing/Output_Step2/
 #
 # The directory where all the BarBIQ pipiline codes are saved, don't forget the last "/"
 Perl_code_path:	/root/BarBIQ_code/
