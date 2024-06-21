@@ -1,6 +1,6 @@
-# You need modify one "path-to"
+# You need modify "Data_path"
 # The directory where all the fastq files from a MiSeq run are saved, don't forget the last "/"
-Data_path:	path-to/BarBIQ_Pipeline_V1_2_1/Demo/Data_and_inputfiles_for_whole_processing/Miseq_Run_1/
+Data_path:	/data/BarBIQ_Pipeline_V1_2_1/Demo/Data_and_inputfiles_for_whole_processing/Miseq_Run_1/
 #
 # The fixed base information of the designed barcodes for the samples:
 Sample_fix_base1:	..................C....A....GT
