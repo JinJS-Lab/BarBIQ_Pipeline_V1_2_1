@@ -1,13 +1,13 @@
-# BarBIQ Pipeline (v1.2.1)
+# BarBIQ Pipeline (v1.2.0)
 
 The BarBIQ pipeline is for processing the sequencing data (please note that this code only accept the phred+33 encoding system for the sequencing quality scores) obtained by BarBIQ method to identify Bar sequences (16S rRNA sequences) and cOTUs (cell-based taxa) and to quantify the identified cell numbers of each cOTU. 
 
-This is version 1.2.1\
+This is version 1.2.0\
 Author: Jianshi Jin\
 Supervisor: Katsuyuki Shiroguchi<br/>
 
 
-## What's new in this version compared to version 1.2.0
+## What's new in this version compared to version 1.1.0
 
 (1) In BarBIQ_Step_2.pl, the lowest-level taxon of each cOTU predicted by the RDP classifier with a classification bootstrap confidence equal or higher than a given threshold (between 0 and 1, which can be set up in the BarBIQ_example_parameter_2.txt file before running BarBIQ_Step_2.pl) is printed as the last column of the "Absolute-concentration" sheet in BarBIQ_Quantification.xlsx; for details about the classification bootstrap confidence in RDP classifer, please refer to https://github.com/rdpstaff/classifier and https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3965039/.<br/> 
 
