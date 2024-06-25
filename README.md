@@ -229,5 +229,4 @@ Wang, Q, Garrity, G. M., Tiedje, J. M. & Cole, J. R. Naïve Bayesian Classifier 
 ## Other versions
 [v1.0.0](https://github.com/Shiroguchi-Lab/BarBIQ)<br/>
 [v1.1.0](https://github.com/Shiroguchi-Lab/BarBIQ_Pipeline_V1_1_0)<br/>
-
 [v1.2.0](https://github.com/JinJS-Lab/BarBIQ_Pipeline_V1_2_0)<br/>
