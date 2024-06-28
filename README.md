@@ -122,13 +122,13 @@ Note: Don't forget the last "."
 To pull the Docker image, run the following command:
 
 ```
-docker pull registry.xxxx
+docker pull jinjslab/barbiq_pipeline:v1
 ```
 
 Next, change the tag of the image to a shorter name, `barbiq`, for ease of use:
 
 ```
-docker tag registry.xxxx jin/barbiq:v1
+docker tag jinjslab/barbiq_pipeline:v1 jin/barbiq:v1
 ```
 
 
