@@ -9,7 +9,7 @@ Supervisor: Katsuyuki Shiroguchi<br/>
 
 ## What's new in this version compared to version 1.2.0
 
-In version 1.2.1, we have integrated the pipeline installation into Docker, allowing all necessary software to be automatically installed. We offer **two installation methods**: **building the Docker image** **yourself** using the provided code and Dockerfile, or **pulling the pre-built Docker image** from our repository.
+In version 1.2.1, we have integrated the pipeline installation into Docker, allowing all necessary software to be automatically installed. We offer **two installation methods**: **building the Docker image with Dockerfile**, or **pulling the pre-built Docker image**.
 
 ## Contents
 (1) BarBIQ_code: All codes of this pipeline<br/>
@@ -100,7 +100,7 @@ Type in the Terminal or equivalent:<br/>
 $ git clone https://github.com/JinJS-Lab/BarBIQ_Pipeline_V1_2_1.git
 ```
 
-### 1 Building the docker image yourself
+### 1 Building the docker image with Dockerfile
 
 #### Build the Docker Image
 
