@@ -37,7 +37,7 @@ The codes of this pipeline is written in Perl (v5.22.1) or in R (version 3.6.3)(
 
 Note: All of these software is automatically installed in version 1.2.1
 
-## Installation methods
+## Installation
 
 ###  Install docker
 
