@@ -97,7 +97,7 @@ Or<br/>
 Type in the Terminal or equivalent:<br/>
 
 ```
-$ git clone https://github.com/JinJS-Lab/BarBIQ_Pipeline_V1_2_1.git
+git clone https://github.com/JinJS-Lab/BarBIQ_Pipeline_V1_2_1.git
 ```
 
 ### 1 Building the docker image with Dockerfile
