@@ -104,7 +104,7 @@ $ git clone https://github.com/JinJS-Lab/BarBIQ_Pipeline_V1_2_1.git
 
 #### Build the Docker Image
 
-Navigate to the project directory and build the Docker image:
+to navigate to the project directory and build the Docker image, run the following command:
 
 ```
 cd BarBIQ_Pipeline_V1_2_1
