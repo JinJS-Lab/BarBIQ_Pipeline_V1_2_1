@@ -89,7 +89,7 @@ docker pull ubuntu
 
 Note: If the configuration is correct, the download speed should be significantly faster.
 
-#### Clone the project 
+### Clone the project 
 
 Clone/download this repository to your local computer<br/>
 Click "Download ZIP" button<br/>
@@ -134,7 +134,7 @@ docker tag jinjslab/barbiq_pipeline:v1 jin/barbiq:v1
 
 
 ## How to use the codes for real data or the demo data "Data_and_inputfiles_for_whole_processing"
-#### Start and Run the Container
+### Start and Run the Container
 
 ```
 # Create a local directory to store data and transfer files within Docker
