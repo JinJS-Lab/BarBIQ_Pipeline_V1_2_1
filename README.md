@@ -35,7 +35,7 @@ The codes of this pipeline is written in Perl (v5.22.1) or in R (version 3.6.3)(
 (4) Required R packages: plotrix<br/>
 * R packages can be installed by the code BarBIQ_final_fitting_OD.r during the processing of BarBIQ_Step_2.pl.<br/>
 
-Note: All of these software is automatically installed in version 1.2.1
+Note: All of these software are automatically installed in version 1.2.1
 
 ## Installation
 
@@ -156,7 +156,7 @@ Note: In the above code, `/local_data` can be modified to reflect the user's act
 /root/BarBIQ_code/BarBIQ_Step_1.pl --in /root/data/Demo/Data_and_inputfiles_for_whole_processing/BarBIQ_example_inputfile_1_S.txt --p /root/data/Demo/Data_and_inputfiles_for_whole_processing/BarBIQ_example_parameter_1_S.txt
 ```
 
-Note: In the above code, `Demo/Data_and_inputfiles_for_whole_processing` should be  be replaced with the actual path where **BarBIQ_example_inputfile_1_S.txt** and **BarBIQ_example_parameter_1_S.txt** are located. 
+Note: In the above code, `Demo/Data_and_inputfiles_for_whole_processing` should be replaced with the actual path where **BarBIQ_example_inputfile_1_S.txt** and **BarBIQ_example_parameter_1_S.txt** are located. 
 
 ### Step 2: For all samples
 (A) Modify the "Demo/Data_and_inputfiles_for_whole_processing/BarBIQ_example_inputfile_2.txt" and "Demo/Data_and_inputfiles_for_whole_processing/BarBIQ_example_parameter_2.txt" for your own data (`Out_path` in  `BarBIQ_example_parameter_2.txt` should be updated with the actual path, ensure to adjust path accordingly, even for demonstration purposes. `Folder`in`BarBIQ_example_inputfile_2.txt` should be updated with the actual data and others should be modified based on the experiment design)<br/>
