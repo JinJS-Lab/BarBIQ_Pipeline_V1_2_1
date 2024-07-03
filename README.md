@@ -5,7 +5,7 @@ The BarBIQ pipeline is for processing the sequencing data (please note that this
 This is version 1.2.1\
 Author:\
 Update: Xiongduo Liu \
-Supervisor: Katsuyuki Shiroguchi, Jianshi Jin\ <br/>
+Supervisor: Katsuyuki Shiroguchi, Jianshi Jin <br/>
 
 
 ## What's new in this version compared to version 1.2.0
