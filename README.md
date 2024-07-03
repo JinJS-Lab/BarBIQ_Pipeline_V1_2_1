@@ -3,8 +3,8 @@
 The BarBIQ pipeline is for processing the sequencing data (please note that this code only accept the phred+33 encoding system for the sequencing quality scores) obtained by BarBIQ method to identify Bar sequences (16S rRNA sequences) and cOTUs (cell-based taxa) and to quantify the identified cell numbers of each cOTU. 
 
 This is version 1.2.1\
-Author: Jianshi Jin\
-Supervisor: Katsuyuki Shiroguchi<br/>
+Author: Update: Xiongduo Liu
+Supervisor: Katsuyuki Shiroguchi  Jianshi Jin\<br/>
 
 
 ## What's new in this version compared to version 1.2.0
